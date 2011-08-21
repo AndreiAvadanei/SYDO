@@ -15,8 +15,8 @@
 
 ##Features
 ### v0.1 
-  - column encryption based on special key manufactured on the fly
-  - table encryption based on special key manufactured on the fly
+  - Column encryption based on special key manufactured on the fly
+  - Table encryption based on special key manufactured on the fly
   - Special token + IP authentication
 
 ##Help

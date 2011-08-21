@@ -10,7 +10,7 @@
 > * How many times you've made a compromise with your hosting provider because you have no trust in his privacy rules? 
 > * How many times you don't know what is hosting provider aim? 
 
-> This tool encrypt your data with AES, based on random keys, and then are sended to SQL database. SYDO create special hashes (if needed) that are sended to a safe webserver (with SYDO Hash Center installed and configured) which stores only the real keys (used for decryption) and the special keys used for identification. Thus, your data is a litle bit safer because you cannot understand encrypted rows and hackers cannot access hashes that are used for decryption. Ofcourse, full access is an option for them, but this is trickier. 
+> This tool encrypt your data with AES, based on random keys, and then are sended to SQL database. SYDO create special hashes (if needed) that are sended to a safe webserver (with SYDO Hash Center installed and configured) which stores only the real keys (used for decryption) and the special keys used for identification. Thus, your data is a litle bit safer because you cannot understand encrypted rows and hackers cannot access hashes that are used for decryption. Of course, full access is an option for them, but this is trickier. 
 
 
 ##Features

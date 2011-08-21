@@ -24,5 +24,16 @@
 ##Installation
 
 ##TODO
+- support for various SQL interfaces
+- support for encrypting whole tables/databases (encrypt even tables name and table columns)
+- support data statistics, request information
+- multiple website management for SYDO Hash Center
+- encache-ing (support for set/get data even if they weren't stored/removed by SYDO Hash Center)
+- encrypted communication
+- P2P Hash Server Service
+- PGP Authentication/encryption
+- RESTful API Communication
+- understanding sql queries
+- Anti-DOS for SYDO Hash Center
 
 ##License

@@ -35,5 +35,6 @@
 - RESTful API Communication
 - understanding sql queries
 - Anti-DOS for SYDO Hash Center
+- learn your query patterns and understand when your query is modified and you face with an SQL Injection attack
 
 ##License

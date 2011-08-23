@@ -5,12 +5,12 @@
 
 ##Description
 
-> SYDO aims to protect your data stored in SQL Databases with a built-in interface for SQL function (for now MySQL), that helps you to store and manage your data in a safer manner. 
+> SYDO aims to protect your data that is stored in SQL Databases with a built-in interface for SQL functions (for now MySQL), that helps you to store and manage your data in a safer manner. 
 
-> * How many times you've made a compromise with your hosting provider because you have no trust in his privacy rules? 
-> * How many times you don't know what is hosting provider aim? 
+> * How many times have you made a compromise with your hosting provider because you don't trust his privacy policy? 
+> * How many times you don't know what is the hosting provider's aim? 
 
-> This tool encrypt your data with AES, based on random keys, and then are sended to SQL database. SYDO create special hashes (if needed) that are sended to a safe webserver (with SYDO Hash Center installed and configured) which stores only the real keys (used for decryption) and the special keys used for identification. Thus, your data is a litle bit safer because you cannot understand encrypted rows and hackers cannot access hashes that are used for decryption. Of course, full access is an option for them, but this is trickier. 
+> This tool encrypts your data with AES, based on random keys, which is then sent to a SQL database. SYDO creates special hashes (if needed) that are sent to a safe webserver (which has SYDO Hash Center installed and configured), which stores only the real keys (used for decryption) and the special keys used for identification. Thus, your data is a litle bit safer because you cannot understand encrypted rows and hackers cannot access hashes that are used for decryption. Of course, full access is an option for them, but that is trickier. 
 
 
 ##Features

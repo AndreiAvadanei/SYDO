@@ -5,7 +5,7 @@
 
 ##Description
 
-> SYDO aims to protect your data that is stored in SQL Databases with a built-in interface for SQL functions (for now MySQL), that helps you to store and manage your data in a safer manner. 
+> SYDO aims to protect your data stored in SQL Databases with a built-in interface for SQL functions (for now MySQL), that helps you to store and manage your data in a safer manner. 
 
 > * How many times have you made a compromise with your hosting provider because you don't trust his privacy policy? 
 > * How many times you don't know what is the hosting provider's aim? 
